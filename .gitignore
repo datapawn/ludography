@@ -1,3 +1,11 @@
+# OSX
+**/.DS_Store
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
